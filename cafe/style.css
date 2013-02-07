@@ -1,0 +1,49 @@
+.titleText {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-style: italic;
+	font-weight: normal;
+	color: #FFF;
+	line-height: 25px;
+	padding: 4px;
+}
+.welcomeText {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: normal;
+	padding: 4px;
+	font-style: italic;
+}
+.menuText {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 4px;
+	font-style: italic;
+	color: #74c65b;
+}
+
+.timingText1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: #00c66e;
+}
+.normalText2 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: normal;
+	color: #333;
+}
+.footerText {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #F00;
+}
+.footerTextRed {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #C00;
+}
